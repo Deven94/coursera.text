@@ -1,2 +1,4 @@
 # datasciencecoursera
-Coursera text repository
+this is for assembling the data science tools in my journey as data scientist
+
+
