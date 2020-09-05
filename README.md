@@ -1,2 +1,2 @@
-# coursera.text
+# datasciencecoursera
 Coursera text repository
